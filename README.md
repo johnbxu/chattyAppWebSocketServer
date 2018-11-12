@@ -1,1 +1,1 @@
-# WebSockets server for ChattyApp (https://github.com/johnbxu/chattyApp)
+### (DEPRECIATED) WebSockets server for ChattyApp (https://github.com/johnbxu/chattyApp)
